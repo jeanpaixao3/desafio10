@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body { /*cor do gustavo #c5ebd6*/
+    background-color: #9fe7c0;
+}
+
+nav {
+    background-color: black;
+    color: aliceblue;
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: aqua;
+}
