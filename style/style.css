@@ -4,10 +4,10 @@
 
   @font-face {
     font-family: Android;
-    src: url(.. /fontes/idroid.otf) format('opentype');
+    src: url(../fontes/idroid.otf) format('opentype');
     font-weight: normal;
-    
   }
+
 /*Declarando as variaveis de cores*/
 :root {
      --cor0:#c5ebd6;
